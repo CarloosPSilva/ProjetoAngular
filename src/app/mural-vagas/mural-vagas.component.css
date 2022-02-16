@@ -1,0 +1,15 @@
+.lista-vagas {
+    display: flex;
+    margin-top: 16px;
+}
+
+.lista-vagas .card {
+    margin: 5px 10px;
+    min-height: 300px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}

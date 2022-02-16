@@ -1,0 +1,25 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Desenvolvedor Front End",
+      "foto": "foto01.jpg",
+      "descricao": "Trabalhar com Angular",
+      "salario": 8000
+    },
+    {
+      "id": 2,
+      "nome": "Desenvolvedor Front End Avançado",
+      "foto": "foto02.jpg",
+      "descricao": "Trabalhar com React",
+      "salario": 9000
+    },
+    {
+      "id": 3,
+      "nome": "Desenvolvedor Back-end",
+      "foto": "foto03.jpg",
+      "descricao": "Trabalhar com PHP",
+      "salario": 70000
+    }
+  ]
+}
